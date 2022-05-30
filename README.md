@@ -2,7 +2,7 @@ How to send message whatsapp with google colab
 
 Features
 
-1. one time scan qrocde
+1. one time scan qrocode
 2. save qrcode login session
 3. connect with google spreadsheet
 
